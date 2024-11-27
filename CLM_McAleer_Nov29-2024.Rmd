@@ -60,7 +60,7 @@ Feedback is Data; what you can do with Data you can do with Feedback.
 
 <p style="text-align:center;"><img src="Lab1.png" alt="First Lab Feedback of PsyTeachR Level 2 in 2017" width=100%/></p>
 
-- Feedback for the first lab of Level 2 under the PsyTeachR initiative in 2017 was somewhat limited
+- Feedback for the first lab of Level 2 under the [PsyTeachR](https://psyteachr.github.io/) initiative in 2017 was somewhat limited
   - That said, the task was less structured than future tasks so marking became harder to do on a large scale.
 
 ???
